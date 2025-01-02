@@ -1,0 +1,119 @@
+
+BIG_PROJECT: The Local Library website
+ 
+
+ завести виртуальное окружение
+ поднять гит в нем
+ поставить джангу
+
+
+
+
+Skills:
+
+ Как работает комп?(CPU,RAM,SSD)
+
+ Операционная система
+
+ Сети и интернет
+
+ Linux 
+
+ Git
+
+ Relational Database: PostgreSQL
+
+ Python
+
+ Как писать хорошо. Pythonic код. Software Design. Architecture 
+   and development principles
+
+ Асинхронный Python
+
+ Django
+
+ RESTfull API
+
+ FastAPI
+
+ Тестирование 
+
+ Cookies
+
+ Frontend tech
+
+ Авторизация
+
+ Celery
+
+ Redis
+
+ Chrome dev tools
+
+ Docker
+
+ CI/CD деплой 
+
+
+ Алгоритмы и структуры данных
+
+ Web Security Knowlege
+
+ Kubernetes
+
+ Kafka
+
+ Elasticsearch
+
+ Nginx
+
+ Monitoring and Telemetry
+
+ IDE
+
+ виртуальное окружение
+
+ nvim
+
+
+ линтер
+
+ tmux
+
+
+
+
+
+Sources:
+
+Git: Дид курс - [SW.BAND]11. Практика/11.17 Git/
+     
+     https://roadmap.sh/git-github
+      
+     Книга ProGit /home/zaby/Yandex.Disk/Big_project/Source_Git/progit.pdf
+
+nvim: tj vim
+      https://www.youtube.com/watch?v=RZ4p-saaQkc
+
+
+
+
+dsfsdfdsf("sdfsdfsefes dsfsdf ")
+
+
+sdfds sdf sddsf dsfdf sdfsdf sd
+
+
+
+
+
+
+
+линтеры - какие правила они проверяют
+
+раздельная клавиатура
+
+разделенный терминал
+
+
+
