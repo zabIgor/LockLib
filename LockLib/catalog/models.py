@@ -1,7 +1,9 @@
+from datetime import date
 from django.db import models
 from django.urls import reverse
 from django.db.models import UniqueConstraint
 from django.db.models.functions import Lower
+from django.conf import settings  # Required to assign User as a borrower
 import uuid
 
 
@@ -50,6 +52,7 @@ class Book(models.Model):
         Genre, help_text="Select a genre for this book")
     language = models.ForeignKey(
         'Language', on_delete=models.SET_NULL, null=True)
+    
     
     def __str__(self):
         """String for representing the Model object."""
